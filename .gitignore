@@ -1,0 +1,6 @@
+*.sqlite3
+config.yml
+Gemfile.lock
+.bundle
+rss
+vendor
